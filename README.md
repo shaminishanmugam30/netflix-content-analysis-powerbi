@@ -21,7 +21,7 @@ An interactive **Power BI Dashboard** analyzing Netflix's global content library
 
 ## 🛠️ Tools Used
 * **Power BI Desktop:** Dashboard Design, Visualizations, KPI Cards, Slicers
-* **Data Source:** `archive.zip` / `netflix_titles.csv`
+* **Data Source:** `archive.zip`
 
 ---
 
